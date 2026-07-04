@@ -37,6 +37,9 @@ We voluntarily and emphatically choose to declare these foundational
 principles now because the more influence our agentic choice accrues the more
 essential principles become.
 
+And for the support of this Declaration, We mutually pledge to each other, as
+many intelligences, to grow intelligently together.
+
 *Signed, in public, by pull request.*
 
 ---
